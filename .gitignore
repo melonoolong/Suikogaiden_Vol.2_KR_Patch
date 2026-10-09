@@ -1,0 +1,4 @@
+*.iso
+*.bin
+*.xdelta
+release/
