@@ -82,7 +82,7 @@ xdelta3 -d -s "Gensou Suiko Gaiden Vol. 2 - Crystal Valley no Kettou (Japan).bin
 | ![Vol.1 데이터 질문](images/link1_question.png) | ![추천 연동 질문](images/link2_suggested.png) | ![연동 확인](images/link3_confirm.png) |
 
 - 첫 질문에서 "예"를 고른 뒤 세이브 선택 화면에서 취소하면, 원래 게임처럼 연동 없이 바로 시작합니다. 추천 연동을 쓰려면 첫 질문에서 "아니요"를 고르세요.
-- 연동하지 않아도 끝까지 진행할 수 있습니다.
+- 연동하지 않아도 끝까지 진행할 수 있습니다. 다만 CG 중 일부는 연동 데이터(환상수호전Ⅰ·Ⅱ 데이터)가 있어야 열리므로, CG 100%를 모으려면 연동(추천 연동 포함)이 필요합니다.
 
 ### 플레이 안내
 
